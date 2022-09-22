@@ -1,0 +1,12 @@
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\bin\Debug\net6.0\BethanyPieShopHRM.Shared.deps.json
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\bin\Debug\net6.0\BethanyPieShopHRM.Shared.dll
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\bin\Debug\net6.0\BethanyPieShopHRM.Shared.pdb
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.csproj.AssemblyReference.cache
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.AssemblyInfo.cs
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.dll
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\refint\BethanyPieShopHRM.Shared.dll
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\BethanyPieShopHRM.Shared.pdb
+C:\Users\hy.ho\Documents\future\blazor\BethanyPieShopHRM\BethanyPieShopHRM.Shared\obj\Debug\net6.0\ref\BethanyPieShopHRM.Shared.dll
