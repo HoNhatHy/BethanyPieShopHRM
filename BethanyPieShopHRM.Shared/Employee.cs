@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BethanysPieShopHRM.Shared
+﻿namespace BethanyPieShopHRM.Shared
 {
     public class Employee
     {

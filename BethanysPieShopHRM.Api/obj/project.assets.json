@@ -1983,9 +1983,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hy.ho\\Documents\\future\\blazor\\BethanyPieShopHRM\\BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj",
-      "projectName": "BethanysPieShopHRM.Api",
-      "projectPath": "C:\\Users\\hy.ho\\Documents\\future\\blazor\\BethanyPieShopHRM\\BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj",
+      "projectUniqueName": "C:\\Users\\hy.ho\\Documents\\future\\blazor\\BethanyPieShopHRM\\BethanysPieShopHRM.Api\\BethanyPieShopHRM.Api.csproj",
+      "projectName": "BethanyPieShopHRM.Api",
+      "projectPath": "C:\\Users\\hy.ho\\Documents\\future\\blazor\\BethanyPieShopHRM\\BethanysPieShopHRM.Api\\BethanyPieShopHRM.Api.csproj",
       "packagesPath": "C:\\Users\\hy.ho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hy.ho\\Documents\\future\\blazor\\BethanyPieShopHRM\\BethanysPieShopHRM.Api\\obj\\",
       "projectStyle": "PackageReference",

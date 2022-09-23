@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "9GfYdFUeOuT8owGQB5o971FBGNdjSKPyNdR80Rxk0PI=",
-  "Source": "BethanysPieShopHRM.Api",
-  "BasePath": "_content/BethanysPieShopHRM.Api",
+  "Hash": "5ErttkEV/JuBDncxNzwv3gdKcsrgpskKmwoVW4kSaus=",
+  "Source": "BethanyPieShopHRM.Api",
+  "BasePath": "_content/BethanyPieShopHRM.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BethanysPieShopHRM.Api.Migrations
+namespace BethanyPieShopHRM.Api.Migrations
 {
     public partial class FirstMigration : Migration
     {

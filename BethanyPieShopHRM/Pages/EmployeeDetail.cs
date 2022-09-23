@@ -1,5 +1,5 @@
 ﻿using BethanyPieShopHRM.Services;
-using BethanysPieShopHRM.Shared;
+using BethanyPieShopHRM.Shared;
 using Microsoft.AspNetCore.Components;
 
 namespace BethanyPieShopHRM.Pages

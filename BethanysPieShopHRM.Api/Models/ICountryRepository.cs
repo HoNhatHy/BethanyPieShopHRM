@@ -1,7 +1,7 @@
-﻿using BethanysPieShopHRM.Shared;
+﻿using BethanyPieShopHRM.Shared;
 using System.Collections.Generic;
 
-namespace BethanysPieShopHRM.Api.Models
+namespace BethanyPieShopHRM.Api.Models
 {
     public interface ICountryRepository
     {

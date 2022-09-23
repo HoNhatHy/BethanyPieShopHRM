@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanyPieShopHRM", "BethanyPieShopHRM\BethanyPieShopHRM.csproj", "{4324C3CB-B08D-48C7-888F-1CC678305A51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanyPieShopHRM", "BethanyPieShopHRM\BethanyPieShopHRM.csproj", "{4324C3CB-B08D-48C7-888F-1CC678305A51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanyPieShopHRM.Shared", "BethanyPieShopHRM.Shared\BethanyPieShopHRM.Shared.csproj", "{B617BA03-B2A0-44EB-ADA8-132FF4B7295E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanyPieShopHRM.Shared", "BethanyPieShopHRM.Shared\BethanyPieShopHRM.Shared.csproj", "{B617BA03-B2A0-44EB-ADA8-132FF4B7295E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Api", "BethanysPieShopHRM.Api\BethanysPieShopHRM.Api.csproj", "{6006E5D2-E3C9-43E9-95F6-F7036C37B9B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanyPieShopHRM.Api", "BethanysPieShopHRM.Api\BethanyPieShopHRM.Api.csproj", "{6006E5D2-E3C9-43E9-95F6-F7036C37B9B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

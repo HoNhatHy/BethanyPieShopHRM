@@ -1,9 +1,9 @@
-﻿using BethanysPieShopHRM.Api.Models;
+﻿using BethanyPieShopHRM.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace BethanysPieShopHRM.Api.Controllers
+namespace BethanyPieShopHRM.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

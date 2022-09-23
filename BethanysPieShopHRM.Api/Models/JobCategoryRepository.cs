@@ -1,8 +1,9 @@
-﻿using BethanysPieShopHRM.Shared;
+﻿using BethanyPieShop.Api.Models;
+using BethanyPieShopHRM.Shared;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BethanysPieShopHRM.Api.Models
+namespace BethanyPieShopHRM.Api.Models
 {
     public class JobCategoryRepository: IJobCategoryRepository
     {

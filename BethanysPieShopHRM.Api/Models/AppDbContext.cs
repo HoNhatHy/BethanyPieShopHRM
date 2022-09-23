@@ -1,8 +1,8 @@
 ﻿using System;
-using BethanysPieShopHRM.Shared;
+using BethanyPieShopHRM.Shared;
 using Microsoft.EntityFrameworkCore;
 
-namespace BethanysPieShopHRM.Api.Models
+namespace BethanyPieShop.Api.Models
 {
     public class AppDbContext : DbContext
     {
@@ -47,7 +47,7 @@ namespace BethanysPieShopHRM.Api.Models
                 MaritalStatus = MaritalStatus.Single,
                 BirthDate = new DateTime(1979, 1, 16),
                 City = "Brussels",
-                Email = "bethany@bethanyspieshop.com",
+                Email = "bethany@BethanyPieShop.com",
                 FirstName = "Bethany",
                 LastName = "Smith",
                 Gender = Gender.Female,
@@ -69,7 +69,7 @@ namespace BethanysPieShopHRM.Api.Models
                 MaritalStatus = MaritalStatus.Married,
                 BirthDate = new DateTime(1979, 1, 16),
                 City = "Antwerp",
-                Email = "gill@bethanyspieshop.com",
+                Email = "gill@BethanyPieShop.com",
                 EmployeeId = 2,
                 FirstName = "Gill",
                 LastName = "Cleeren",
